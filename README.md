@@ -27,5 +27,5 @@ A bank management system to manage the bank accounts and perform basic reporting
 <li><b>Randy</b> <br> Slides Content</li>
 
 ## Additional Materials
-<li>InfoTecGuide</li>
+<li><i>InfoTecGuide</i></li>
 
