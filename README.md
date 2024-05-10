@@ -11,4 +11,4 @@ A bank management system to manage the bank accounts and perform basic reporting
 | Show Employees| Maven    |
 | Show Customers| Junit    |
 | Search Customer by ID| Google Drive    |
-| Search Employee by ID|     |
+| Search Employee by ID| Figma/PPT    |
