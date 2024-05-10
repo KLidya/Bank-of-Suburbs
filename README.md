@@ -16,7 +16,6 @@ A bank management system to manage the bank accounts and perform basic reporting
 ## Team Members
 <li>Lidiia Kalugina</li>
 <li>Pooja</li>
-[![Resume](https://img.shields.io/badge/-Resume-F02F2F?style=for-the-badge)](https://github.com/KLidya/KLidya/blob/main/KaluginaL%202024.docx?)
 <li>Masum</li>
 <li>Randy</li>
 
