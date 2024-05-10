@@ -15,9 +15,7 @@ A bank management system to manage the bank accounts and perform basic reporting
 
 ## Team Members
 <li>Lidiia Kalugina</li>
-<li>Pooja: 
-  ![Java](https://img.shields.io/badge/-Java-000D80?style=for-the-badge)
-</li>
+<li>Pooja</li>
 <li>Masum</li>
 <li>Randy</li>
 
