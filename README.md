@@ -17,8 +17,8 @@ A bank management system to manage the bank accounts and perform basic reporting
 <li><b>Lidiia Kalugina</b><br>
   Java Classes: <br>
   Sequence Diagram: https://github.com/KLidya/Bank-of-Suburbs/blob/main/sequence%20diagram.jpg <br> 
-  Slides Content/Template Design: <br>
-  GIT: </li>
+  Slides Content/Template Design: https://github.com/KLidya/Bank-of-Suburbs/blob/main/Bank%20Of%20Subs.pptx <br>
+  GIT: KLidya/Bank-of-Suburbs </li>
 <li><b>Pooja</b><br>
   Class: <br> 
   UML: https://github.com/KLidya/Bank-of-Suburbs/blob/main/uml.jpg <br>
