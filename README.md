@@ -14,10 +14,10 @@ A bank management system to manage the bank accounts and perform basic reporting
 | Search Employee by ID| Figma/PPT    |
 
 ## Team Members
-<li>Lidiia Kalugina</li>
-<li>Pooja</li>
-<li>Masum</li>
-<li>Randy</li>
+<li>Lidiia Kalugina: Java Classes; Sequence Diagram; Slides Content/Template Design, GIT</li>
+<li>Pooja: Java Classes; UML; Slides Content</li>
+<li>Masum: Tests, Java Classes; Slides Content</li>
+<li>Randy: Slides Content</li>
 
 ## Additional Materials
 <li>InfoTecGuide</li>
