@@ -1,2 +1,2 @@
-# project2
+# project
 new project in git
