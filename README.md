@@ -12,3 +12,13 @@ A bank management system to manage the bank accounts and perform basic reporting
 | Show Customers| Junit    |
 | Search Customer by ID| Google Drive    |
 | Search Employee by ID| Figma/PPT    |
+
+## Team Members
+<li>Lidiia Kalugina</li>
+<li>Pooja</li>
+<li>Masum</li>
+<li>Randy</li>
+
+## Additional Materials
+<li>InfoTecGuide</li>
+
