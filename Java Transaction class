@@ -1,0 +1,74 @@
+enum:
+
+public enum TransactionType {
+    Credit, Debit
+   
+}
+
+
+and class transaction
+
+import java.util.Date;
+
+/**
+ *
+ * @author User
+ */
+public class Transaction {
+    private int id;
+    private TransactionType transtype;
+    private float amount;
+    private Date datatime;
+
+    @Override
+    public String toString() {
+        return "Transaction{" + "id=" + id + ", transtype=" + transtype + ", amount=" + amount + ", datatime=" + datatime + '}';
+    }
+   
+   
+
+    public Transaction(int id, TransactionType transtype, float amount, Date datatime) {
+        this.id = id;
+        this.transtype = transtype;
+        this.amount = amount;
+        this.datatime = datatime;
+    }
+   
+   
+
+    public int getId() {
+        return id;
+    }
+
+    public void setId(int id) {
+        this.id = id;
+    }
+
+    public TransactionType getTranstype() {
+        return transtype;
+    }
+
+    public void setTranstype(TransactionType transtype) {
+        this.transtype = transtype;
+    }
+
+    public float getAmount() {
+        return amount;
+    }
+
+    public void setAmount(float amount) {
+        this.amount = amount;
+    }
+
+    public Date getDatatime() {
+        return datatime;
+    }
+
+    public void setDatatime(Date datatime) {
+        this.datatime = datatime;
+    }
+   
+   
+   
+   
+}
