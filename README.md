@@ -14,17 +14,17 @@ A bank management system to manage the bank accounts and perform basic reporting
 | Search Employee by ID| Figma/PPT    |
 
 ## Team Members
-<li>Lidiia Kalugina:<br>
+<li><b>Lidiia Kalugina</b><br>
   Java Classes: <br>
   Sequence Diagram: https://github.com/KLidya/Bank-of-Suburbs/blob/main/sequence%20diagram.jpg <br> 
   Slides Content/Template Design: <br>
   GIT: </li>
-<li>Pooja:<br>
+<li><b>Pooja</b><br>
   Class: <br> 
   UML: https://github.com/KLidya/Bank-of-Suburbs/blob/main/uml.jpg <br>
   Slides Content: </li>
-<li>Masum: Tests, Java Classes; Slides Content</li>
-<li>Randy: Slides Content</li>
+<li><b>Masum</b> <br> Tests, Java Classes; Slides Content</li>
+<li><b>Randy</b> <br> Slides Content</li>
 
 ## Additional Materials
 <li>InfoTecGuide</li>
