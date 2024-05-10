@@ -15,16 +15,16 @@ A bank management system to manage the bank accounts and perform basic reporting
 
 ## Team Members
 <li><b>Lidiia Kalugina</b><br>
-  Java Classes: customer portal <br>
+  Java: customer portal <br>
   Sequence Diagram: https://github.com/KLidya/Bank-of-Suburbs/blob/main/sequence%20diagram.jpg <br> 
   Slides Template Design: https://github.com/KLidya/Bank-of-Suburbs/blob/main/Bank%20Of%20Subs.pptx <br>
   GIT: KLidya/Bank-of-Suburbs </li>
 <li><b>Pooja</b><br>
-  Java Classes: employee portal <br> 
+  Java: employee portal <br> 
   Class Diagram: https://github.com/KLidya/Bank-of-Suburbs/blob/main/uml.jpg</li>
 <li><b>Masum</b> <br> 
   Tests: <br> 
-  Java Classes: admin portal </li>
+  Java: admin portal </li>
 <li><b>Randy</b> <br> Slides Content</li>
 
 ## Additional Materials
