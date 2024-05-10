@@ -1,2 +1,2 @@
-# project
-new project in git
+# Bank of Suburbs
+## Java Based Bank Management System Project
