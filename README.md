@@ -15,7 +15,11 @@ A bank management system to manage the bank accounts and perform basic reporting
 
 ## Team Members
 <li>Lidiia Kalugina: Java Classes; Sequence Diagram; Slides Content/Template Design, GIT</li>
-<li>Pooja: Java Classes; UML; Slides Content</li>
+<li>Pooja:<br>
+  Class: <br> 
+  UML: [![uml](https://img.shields.io/badge/dynamic/toml
+)](https://github.com/KLidya/Bank-of-Suburbs/blob/main/uml.jpg) <br>
+  Slides Content: <br></li>
 <li>Masum: Tests, Java Classes; Slides Content</li>
 <li>Randy: Slides Content</li>
 
