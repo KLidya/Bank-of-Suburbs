@@ -4,10 +4,6 @@
  */
 package com.itexps.bank_of_suburbs;
 
-/**
- *
- * @author patel
- */
 public enum TransactionType {
     Credit, Debit
 }
