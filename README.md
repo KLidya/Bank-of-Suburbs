@@ -3,17 +3,17 @@
 ## Java Based Bank Management System Project
 A bank management system to manage the bank accounts and perform basic reporting.
 
-| Tasks    | Technologies used |
-| -------- | ------- |
-| Update Bank  | VS Code    |
-| Add/Update Employee | Net Beans (Java)     |
-| Add/Update Customer| Drawio    |
-| Show Employees| Maven    |
+| Tasks    | Technologies used | Members
+| -------- | ------- | ------- |
+| Update Bank  | VS Code    | Lidiia  |
+| Add/Update Employee | Net Beans (Java)     | Pooja  |
+| Add/Update Customer| Drawio    |  Randy  |
+| Show Employees| Maven    | Masum  |
 | Show Customers| Junit    |
 | Search Customer by ID| Google Drive    |
 | Search Employee by ID| Figma/PPT    |
 
-## Team Members
+## Team Members and duties
 <li><b>Lidiia Kalugina</b><br>
   Java: customer portal <br>
   https://github.com/KLidya/Bank-of-Suburbs/blob/main/Customer.java <br>
