@@ -23,7 +23,7 @@ A bank management system to manage the bank accounts and perform basic reporting
   Java: employee portal, bank driver class <br> 
   Class Diagram: https://github.com/KLidya/Bank-of-Suburbs/blob/main/uml.jpg</li>
 <li><b>Masum Patel</b> <br> 
-  Tests: <br> 
+  Tests: https://github.com/KLidya/Bank-of-Suburbs/blob/main/testng.docx <br> 
   Java: admin portal </li>
 <li><b>Randy</b> <br> Slides Content, project demonstration</li>
 
