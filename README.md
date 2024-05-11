@@ -9,7 +9,7 @@ A bank management system to manage the bank accounts and perform basic reporting
 | Add/Update Employee | Net Beans (Java)     | Pooja  |
 | Add/Update Customer| Drawio    |  Randy  |
 | Show Employees| Maven    | Masum  |
-| Show Customers| Junit    |
+| Show Customers| TestNG    |
 | Search Customer by ID| Google Drive    |
 | Search Employee by ID| Figma/PPT    |
 
