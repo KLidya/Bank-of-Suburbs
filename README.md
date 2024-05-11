@@ -34,7 +34,8 @@ A bank management system to manage the bank accounts and perform basic reporting
   Java: admin portal <br>
   https://github.com/KLidya/Bank-of-Suburbs/blob/main/BankTest.java <br> 
   https://github.com/KLidya/Bank-of-Suburbs/blob/main/Account.java </li>
-<li><b>Randy</b> <br> Slides Content, project demonstration</li>
+<li><b>Randy</b> <br> Slides Content, project demonstration <br>
+https://github.com/KLidya/Bank-of-Suburbs/blob/main/Bank%20Of%20Subs.pptx </li>
 
 ## Additional Materials
 <li><i>InfoTecGuide</i></li>
