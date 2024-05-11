@@ -19,13 +19,13 @@ A bank management system to manage the bank accounts and perform basic reporting
   Sequence Diagram: https://github.com/KLidya/Bank-of-Suburbs/blob/main/sequence%20diagram.jpg <br> 
   Slides Template Design: https://github.com/KLidya/Bank-of-Suburbs/blob/main/Bank%20Of%20Subs.pptx <br>
   GIT: KLidya/Bank-of-Suburbs </li>
-<li><b>Pooja</b><br>
-  Java: employee portal <br> 
+<li><b>Pooja Phalke</b><br>
+  Java: employee portal, bank driver class <br> 
   Class Diagram: https://github.com/KLidya/Bank-of-Suburbs/blob/main/uml.jpg</li>
-<li><b>Masum</b> <br> 
+<li><b>Masum Patel</b> <br> 
   Tests: <br> 
   Java: admin portal </li>
-<li><b>Randy</b> <br> Slides Content</li>
+<li><b>Randy</b> <br> Slides Content, project demonstration</li>
 
 ## Additional Materials
 <li><i>InfoTecGuide</i></li>
