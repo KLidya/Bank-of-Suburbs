@@ -3,7 +3,7 @@
 ## Java Based Bank Management System Project
 A bank management system to manage the bank accounts and perform basic reporting.
 
-| Tasks    | Technologies used | Members
+| Functionalities    | Technologies used | Members
 | -------- | ------- | ------- |
 | Update Bank  | VS Code    | Lidiia  |
 | Add/Update Employee | Net Beans (Java)     | Pooja  |
