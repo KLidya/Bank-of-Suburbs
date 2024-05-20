@@ -1,3 +1,6 @@
+![Header](https://github.com/KLidya/Bank-of-Suburbs/blob/main/Slide%201.png)
+
+
 # Bank of Suburbs
 
 ## Java Based Bank Management System Project
